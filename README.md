@@ -3,4 +3,4 @@ Created as a group project for the Algorithm Analysis course using Google Colab,
 
 Here are the example outputs 
 
-<img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp0.png?raw=true" width = 32 />
+<img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp0.png?raw=true" width = 124 alt="GraphImage" />
