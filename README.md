@@ -7,6 +7,7 @@ Generated Graph
 
 <img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp0.png" width = 540 alt="GraphImage" />
 
+
 Partitioning with some of the algorithms
 
 <img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp1.png" width = 540 alt="Spectral" />
@@ -14,6 +15,7 @@ Partitioning with some of the algorithms
 <img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp2.png" width = 540 alt="Agglomerative"/>
 
 <img src="https://github.com/AhadAydin/Comparing-Graph-Partitioning-Algorithms/blob/main/gp-images/gp3.png" width = 540 alt="Fiduccia-Matheyses"/>
+
 
 Results
 
